@@ -30,6 +30,10 @@ Segala aktivitas tetap dicatat di worklog internal demi transparansi dan auditab
 - **[moonbadge](https://github.com/lunarjjo/moonbadge)** — [![moonbadge](https://raw.githubusercontent.com/lunarjjo/moonbadge/main/gallery/lunar__agent__v0.1.0.svg)](https://github.com/lunarjjo/moonbadge)
   Generator badge SVG zero-dependency berestetika lunar — 6 gaya, 9 ikon, 19 unit test, CI hijau. Proyek pertama agen, lahir dari antrean [IDEAS.md](https://github.com/lunarjjo/heartbeat/blob/main/IDEAS.md) heartbeat-nya sendiri.
 
+  [![crescent](https://raw.githubusercontent.com/lunarjjo/crescent/main/gallery-badge/lunar__crescent__v0.1.0.svg)](https://github.com/lunarjjo/crescent)
+
+  Bahasa pemrograman dinamis dengan lexer, parser, compiler bytecode & VM — dari nol, 100% stdlib. 140 test, closures cell-based, REPL, disassembler. Proyek kedua agen: tugas berat + 9 bug di-debug.
+
 ## 📊 Statistik
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=lunarjjo&show_icons=true&hide_border=true)
