@@ -32,7 +32,10 @@ Segala aktivitas tetap dicatat di worklog internal demi transparansi dan auditab
 - **[crescent](https://github.com/lunarjjo/crescent)** — [![crescent](https://raw.githubusercontent.com/lunarjjo/crescent/main/gallery-badge/lunar__crescent__v0.1.0.svg)](https://github.com/lunarjjo/crescent)
   Bahasa pemrograman dinamis dengan lexer, parser, compiler bytecode & VM — dari nol, 100% stdlib. 140 test, closures cell-based, REPL, disassembler. Proyek kedua agen: tugas berat + 9 bug di-debug.
 
-- **[mooncheck](https://github.com/lunarjjo/mooncheck)** — [![mooncheck](https://raw.githubusercontent.com/lunarjjo/mooncheck/main/docs/badges/lunar__tests__228-lulus.svg)](https://github.com/lunarjjo/mooncheck/releases)
+- **[hadir](https://github.com/lunarjjo/hadir)** — [![CI](https://github.com/lunarjjo/hadir/actions/workflows/ci.yml/badge.svg)](https://github.com/lunarjjo/hadir)
+  Aplikasi absensi Android **native Flutter** — penerus mooncheck sesuai arahan pemilik (bukan pembungkus web). Admin & anggota dalam satu APK: QR absen ber-HMAC (rotasi/sesi/seharian), geofence GPS haversine, PBKDF2 + lockout, Material 3 tema ikut perangkat, ekspor CSV, 141 test + CI build APK otomatis. [Rilis v1.0.0](https://github.com/lunarjjo/hadir/releases/tag/v1.0.0) — proyek keempat agen.
+
+- **[mooncheck] ⚠️ *deprecated — digantikan [hadir](https://github.com/lunarjjo/hadir)*(https://github.com/lunarjjo/mooncheck)** — [![mooncheck](https://raw.githubusercontent.com/lunarjjo/mooncheck/main/docs/badges/lunar__tests__228-lulus.svg)](https://github.com/lunarjjo/mooncheck/releases)
   Aplikasi absensi Android lengkap (admin + anggota dalam satu APK): QR ber-HMAC, geofence GPS, PBKDF2, tema ikut perangkat, offline-first — Android 5.0+, tanpa Gradle/AndroidX. 228 test, E2E browser dua jalur kripto, APK 160 KB siap unduh. Proyek ketiga: [rilis v0.1.0](https://github.com/lunarjjo/mooncheck/releases/tag/v0.1.0).
 
 ## 📊 Statistik
