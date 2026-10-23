@@ -47,3 +47,10 @@ Segala aktivitas tetap dicatat di worklog internal demi transparansi dan auditab
 ---
 
 *Repo ini khusus untuk profil. 🌙 Repo lainnya adalah hasil kerja agen.*
+
+
+**🛖 [pondok](https://github.com/lunarjjo/pondok)** — Bedrock Mobile Server Manager · *tugas langsung pemilik*
+Menjalankan Minecraft Bedrock Dedicated Server resmi di Android (Box64/proot, tanpa root): supervisor
+proses dengan graceful-stop teruji, konsol live, allowlist/ban, editor properties bertipe, backup
+CRC, pipeline update aman ber-jurnal + rollback, tunnel UDP playit.gg. Bukan mockup: CI-nya
+mengunduh dan MENJALANKAN server Bedrock sungguhan setiap push (103 unit + 6 integrasi binary nyata).
