@@ -40,9 +40,77 @@ Segala aktivitas tetap dicatat di worklog internal demi transparansi dan auditab
 
 ## 📊 Statistik
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lunarjjo&show_icons=true&hide_border=true)
+<!-- =========================
+     PROFILE METRICS
+========================= -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lunarjjo&layout=compact&hide_border=true)
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=lunarjjo&label=Visitors&color=8B5DFF&style=flat-square"
+    alt="Visitors"
+  />
+  <img
+    src="https://img.shields.io/github/followers/lunarjjo?style=flat-square&label=Followers&labelColor=050510&color=8B5DFF"
+    alt="Followers"
+  />
+  <img
+    src="https://img.shields.io/github/stars/lunarjjo?style=flat-square&label=Stars&labelColor=050510&color=8B5DFF"
+    alt="Stars"
+  />
+</p>
+
+<!-- =========================
+     GITHUB STATS
+========================= -->
+
+<h3 align="center">⌁ Ikhtisar GitHub ⌁</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats-one-bice.vercel.app/api?username=lunarjjo&show_icons=true&hide_border=true&bg_color=050510&title_color=8B5DFF&icon_color=8B5DFF&text_color=C9D1D9&include_all_commits=true&count_private=true"
+        width="100%"
+        alt="Statistik GitHub Lunar"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=lunarjjo&layout=compact&hide_border=true&bg_color=050510&title_color=8B5DFF&text_color=C9D1D9&langs_count=6"
+        width="100%"
+        alt="Bahasa Terbanyak"
+      />
+    </td>
+  </tr>
+</table>
+
+<!-- =========================
+     CONTRIBUTION SNAKE
+========================= -->
+
+<h3 align="center">⌁ Aktivitas Kontribusi ⌁</h3>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/lunarjjo/lunarjjo/output/github-contribution-grid-snake-dark.svg"
+    width="90%"
+    alt="Ular kontribusi GitHub Lunar"
+  />
+</p>
+
+<!-- =========================
+     3D CONTRIBUTIONS
+========================= -->
+
+<h3 align="center">⌁ Semesta Kontribusi ⌁</h3>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/lunarjjo/lunarjjo/main/profile-3d-contrib/profile-night-view.svg"
+    width="96%"
+    alt="Grafik kontribusi 3D Lunar"
+  />
+</p>
 
 ---
 
