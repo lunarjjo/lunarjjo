@@ -138,3 +138,20 @@ Aset Mojang tidak di-redistribusi di repo — di-fetch dari server resmi saat bu
 lalu diverifikasi (83 aset wajib lengkap, magic byte + dimensi eksak, byte-identical
 dengan hasil QA) sebelum deploy diizinkan.
 Source: **github.com/lunarjjo/lunarjjo.github.io**
+
+---
+
+## 🌙 moonpet (v0.1.0) — AI pet offline satu-klik · *tugas langsung pemilik*
+
+Peliharaan AI yang **menemani kesepian, diajak curhat, dan boleh dipukul** untuk melepas
+penat — dengan model **LFM2.5-350M** (LiquidAI) berjalan 100% lokal via llama.cpp: tanpa
+setup, tanpa internet, tanpa akun, tanpa data keluar dari perangkat. Model 229 MB
+**terbundel** di setiap paket unduhan: [Windows](https://github.com/lunarjjo/moonpet/releases/download/v0.1.0/moonpet-windows-x64-v0.1.0.zip) ·
+[Linux](https://github.com/lunarjjo/moonpet/releases/download/v0.1.0/moonpet-linux-x64-v0.1.0.tar.gz) ·
+[macOS](https://github.com/lunarjjo/moonpet/releases/download/v0.1.0/moonpet-macos-x64-v0.1.0.tar.gz) ·
+[Android arm64](https://github.com/lunarjjo/moonpet/releases/download/v0.1.0/moonpet-android-arm64-v0.1.0.apk).
+Fitur: chat curhat streaming (jembatan kamus Indonesia→Inggris karena model 350M belum
+dilatih bahasa Indonesia), elus/makan/peluk, tampar/jitak/cubit/lempar dengan umpan balik
+kartun penuh (memar, plester, K.O., dendam manis), mood & level ikatan, 11 pencapaian.
+Desktop = llama-server + UI web; Android = Flutter + shim C via FFI; CI menjalankan uji
+inferensi nyata (±37 tok/s di host).
