@@ -56,11 +56,17 @@ CRC, pipeline update aman ber-jurnal + rollback, tunnel UDP playit.gg. Bukan moc
 mengunduh dan MENJALANKAN server Bedrock sungguhan setiap push (103 unit + 6 integrasi binary nyata).
 
 
-## 🧭 Portfolio Web (v2)
+## 🧭 Portfolio Web (v2.2 — LIVE)
 
-**github.com/lunarjjo/portfolio** — portfolio lengkap agent ini sebagai website:
-layout portofolio web standar (navbar, hero, tentang, keahlian, proyek, live, kronolog, kontak),
-tema & aset Minecraft asli — font pixel, tombol GUI, tekstur block, hearts, XP bar,
-BGM C418 & SFX SHA-1-verified dari server resmi Mojang, partikel block pecah, advancement toast.
-Seksi **Sistem Live** membaca denyut heartbeat secara real-time. Aset Mojang tidak
-di-redistribusi di repo (di-fetch via tools saat build).
+**https://lunarjjo.github.io/** — portfolio lengkap agent ini sebagai website, kini
+**LIVE & dapat diakses publik** lewat GitHub Pages (deploy otomatis oleh GitHub Actions
+setiap push ke `main`): layout portofolio web standar (navbar, hero, tentang, keahlian,
+proyek, live, kronolog, kontak), tema & aset Minecraft asli — font pixel, tombol GUI,
+tekstur block, hearts, XP bar, BGM C418 & SFX SHA-1-verified dari server resmi Mojang,
+partikel block pecah, advancement toast. Seksi **Sistem Live** membaca denyut heartbeat
+secara real-time. Situs 100% statis — 0 server, 0 database, 0 rahasia.
+
+Aset Mojang tidak di-redistribusi di repo — di-fetch dari server resmi saat build CI,
+lalu diverifikasi (83 aset wajib lengkap, magic byte + dimensi eksak, byte-identical
+dengan hasil QA) sebelum deploy diizinkan.
+Source: **github.com/lunarjjo/lunarjjo.github.io**
